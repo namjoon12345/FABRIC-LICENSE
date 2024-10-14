@@ -1,6 +1,3 @@
-Aquí tienes el contenido del archivo `LICENSE` con la información que proporcionaste:
-
-```markdown
 MIT License
 
 Copyright (c) 2024 FabricLicense
@@ -10,6 +7,3 @@ Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
 1. El aviso de copyright anterior y este aviso de permiso deben incluirse en todas las copias o partes sustanciales del Software.
 
 2. EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, PERO NO LIMITÁNDOSE A, GARANTÍAS DE COMERCIALIZACIÓN, ADECUACIÓN PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE CUALQUIER RECLAMO, DAÑO O OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRA MANERA, QUE SURJA DE O EN RELACIÓN CON EL SOFTWARE O EL USO O OTRO TIPO DE ACCIONES EN EL SOFTWARE.
-```
-
-Puedes copiar y pegar este contenido en tu archivo `LICENSE` en tu repositorio de GitHub. Si necesitas más ayuda o algún otro archivo, ¡házmelo saber!
